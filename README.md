@@ -1,7 +1,7 @@
 ![Masterhead](https://camo.githubusercontent.com/c5aaf63548326f1165dde4929c617f06de12bd37e3107ea86c535a3d215f74c9/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f31312f6865616465725f62616e6e65722e6a7067)
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hii I am Anukripa</h3>
 
 - 🌱 I’m currently learning **SpringBoot and ReactJs**
 
